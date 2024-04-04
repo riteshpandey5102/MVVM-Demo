@@ -24,7 +24,7 @@ So, it removes the circular dependency which makes it easier to test and maintai
 ##### Problems in MVVM
 - It doesn’t have any major problem just need to learn reactive programming to use it which makes it little difficult to understand it. 
 
-##### More Links
-##### [Model view controller](https://github.com/riteshpandey5102/MVC-Demo)
-##### [Model view presenter](https://github.com/riteshpandey5102/MVP-Demo)
+__More Links__  
+__[Model view controller](https://github.com/riteshpandey5102/MVC-Demo)__  
+__[Model view presenter](https://github.com/riteshpandey5102/MVP-Demo)__
 
