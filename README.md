@@ -1,4 +1,4 @@
-#### Architecture Pattern 
+__Architecture Pattern__  
 Architectural patterns provide a structured approach for organizing code and separating concerns, making it easier to manage complexity and promote code reusability.
 
 __Why does your app need good architecture?__  
