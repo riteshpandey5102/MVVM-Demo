@@ -13,7 +13,7 @@ __There are 3 architecture pattern to organize our code__
 - [Model view presenter](https://github.com/riteshpandey5102/MVP-Demo)
 - [Model view viewmodel](https://github.com/riteshpandey5102/MVVM-Demo)
 
-__Model View ViewModel__
+__Model View ViewModel__  
 In this project we will learn about the first pattern Model view viewmodel   
 __Model:__ It simply gets data from data source and publish the result with help of observables. It is not depended on view or view model.  
 __View:__ It simply subscribes the observables in view model and perform UI actions on event triggered on viewmodel observables. It is only depended on view model.  
@@ -21,6 +21,7 @@ __View Model:__ It is used to get the data from model and apply the required log
 ![Model View ViewModel](https://github.com/riteshpandey5102/MVVM-Demo/blob/main/MVVM.jpg?raw=true)  
 Here in mvvm data flow is unidirectional so View is only depended on Viewmodel, View Model is only depended on Model and Model is independent it doesn’t have any dependency. 
 So, it removes the circular dependency which makes it easier to test and maintain the project.  
+
 __Problems in MVVM__  
 - It doesn’t have any major problem just need to learn reactive programming to use it which makes it little difficult to understand it. 
 
